@@ -1,0 +1,16 @@
+Find Min element in the array
+Find product of the array.
+Find count of vowels and consonants.
+Rotate an array k times.
+
+Determine if an array is sorted in ascending order.
+Example:
+Input: [1, 2, 3, 4, 5]
+Output: true
+
+Find the Second Largest Element
+
+Find the second largest number in the array.
+Example:
+Input: [10, 20, 30, 40]
+Output: 30
